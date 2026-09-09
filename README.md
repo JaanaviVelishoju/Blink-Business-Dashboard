@@ -150,8 +150,7 @@ The project uses grocery sales and outlet-related data containing information su
 
 ### Outlet Analysis
 
-![Outlet Analysis](Screenshots/Outlet
-.png)
+![Outlet Analysis](Screenshots/Outlet.png)
 
 ---
 
