@@ -142,7 +142,7 @@ The project uses grocery sales and outlet-related data containing information su
 
 ### Dashboard Overview
 
-![Dashboard Overview](Screenshots/tier&kips.png)
+![Dashboard Overview](Screenshots/tier&kpis.png)
 
 ### Product Analysis
 
@@ -153,7 +153,7 @@ The project uses grocery sales and outlet-related data containing information su
 ![Outlet Analysis](Screenshots/Outlet.png)
 ### Outlet Type Analysis
 
-![OutletType Analysis](Screenshots/Outlet_type.png)
+![OutletType Analysis](Screenshots/Outlet Type.png)
 ---
 
 ## 📁 Project Structure
